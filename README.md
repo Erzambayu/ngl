@@ -20,8 +20,9 @@ jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan k
 ---
 
 **Creators Contact:**  :bust_in_silhouette:
-> [Ryuhan Minamoto](https://github.com/ryuhandev)  
+> [Github](https://github.com/ryuhandev)  
 > [Telegram](https://t.me/ryuhanwired)
+> [Facebook](https://www.facebook.com/ryuhann)
 
 ---
 
