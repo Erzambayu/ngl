@@ -21,7 +21,7 @@ jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan k
 
 **Creators Contact:**  :bust_in_silhouette:
 > [Github](https://github.com/ryuhandev)  
-> [Telegram](https://t.me/ryuhanwired)
+> [Telegram](https://t.me/ryuhanwired)   
 > [Facebook](https://www.facebook.com/ryuhann)
 
 ---
