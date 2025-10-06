@@ -39,4 +39,10 @@ pkg upgrade -y && pkg update -y && pkg install python -y && pkg install git -y &
 cd ngl && python ngl.py
 ```
 
+### bagi yang error saat runing  :package:
+1. bagi yang error pas jalanin python ngl.py silahkan install dulu dibawah ini, lalu jalankan ulang
+```
+pip install -r requirements.txt
+```
+
 ***
