@@ -29,7 +29,7 @@ jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan k
 ### bagi yang baru download termux :package:
 1. khusus bagi yang baru install termux yang belum ngerti pemasangan bisa langsung copy teks dibawah lalu paste aja, langsung otomatis install + jalanin scriptnya.
 ```
-pkg upgrade -y && pkg update -y && pkg install python -y && pkg install git -y && git clone https://github.com/ryuhandev/ngl.git && cd ngl && pip install requirements.txt && python ngl.py
+pkg upgrade -y && pkg update -y && pkg install python -y && pkg install git -y && git clone https://github.com/ryuhandev/ngl.git && cd ngl && pip install -r requirements.txt && python ngl.py
 ```
 ---
 
