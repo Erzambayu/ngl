@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/b368pe.png" alt="Ryuhan Lain" width="150"/>
 </p>
 
-<h1 align="center">💧 Rimuru Baileys</h1>
-<p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan fork!</p>
+<h1 align="center">💧 NGSPAM V1.0</h1>
+<p align="center">Ngl Spamer Message 1sec/message!</p>
 
 <p align="center">
-  <a href="https://github.com/ryuhandev/rimuru-baileys/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Stars"/></a>
-  <a href="https://github.com/ryuhandev/rimuru-baileys/issues"><img src="https://img.shields.io/github/issues/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Issues"/></a>
+  <a href="https://github.com/ryuhandev/ngl/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/ngl?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ryuhandev/ngl/issues"><img src="https://img.shields.io/github/issues/ryuhandev/ngl?style=flat-square&logo=github" alt="GitHub Issues"/></a>
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
 </p>
 
@@ -17,13 +17,13 @@
 
 jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan ke telegram saya @ryuhanwired atau nomor telegram saya: +23233332222
 
-![Tool UI](https://drive.google.com/uc?export=view&id=1e5smGCgv0GavbmotU3_ntOpo1FNGUez0)
+![Tool UI](https://files.catbox.moe/8oy5nx.jpg)
 
 ---
 
 **Creators Contact:**  :bust_in_silhouette:
-> [Ryuhan Minamoto](https://github.com/Aravindha1234u)  
-> [Telegram](https://github.com/kabilan1290)
+> [Ryuhan Minamoto](https://github.com/ryuhandev)  
+> [Telegram](https://t.me/ryuhanwired)
 
 ---
 
