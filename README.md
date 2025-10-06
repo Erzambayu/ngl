@@ -15,9 +15,7 @@
 
 ⚠️Warning: Tools ini hanya untuk edukasi semata, jangan diperjual belikan atau disalahgunakan untuk mencemari nama baik seseorang!
 
-jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan ke telegram saya @ryuhanwired atau nomor telegram saya: +23233332222
-
-![Tool UI](https://files.catbox.moe/8oy5nx.jpg)
+jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan ke telegram saya [Ryuhan Minamoto](https://t.me/ryuhanwired)
 
 ---
 
