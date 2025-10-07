@@ -1,48 +1,53 @@
-<p align="center">
-  <img src="https://files.catbox.moe/b368pe.png" alt="Ryuhan Lain" width="150"/>
-</p>
+# NGSPAM - NGL Spammer
 
-<h1 align="center">💧 NGSPAM V1.0</h1>
-<p align="center">Ngl Spamer Message 1sec/message!</p>
+NGSPAM adalah skrip Python untuk mengirim pesan anonim ke akun NGL.link secara massal. Skrip ini dapat digunakan untuk tujuan edukasi dan pengujian.
 
-<p align="center">
-  <a href="https://github.com/ryuhandev/ngl/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/ngl?style=flat-square&logo=github" alt="GitHub Stars"/></a>
-  <a href="https://github.com/ryuhandev/ngl/issues"><img src="https://img.shields.io/github/issues/ryuhandev/ngl?style=flat-square&logo=github" alt="GitHub Issues"/></a>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
-</p>
+**Ini adalah fork dari repositori asli [ryuhandev/ngl](https://github.com/ryuhandev/ngl) oleh [Erzambayu](https://github.com/Erzambayu).**
 
----
+## Fitur
 
-⚠️Warning: Tools ini hanya untuk edukasi semata, jangan diperjual belikan atau disalahgunakan untuk mencemari nama baik seseorang!
+*   **Mengirim Pesan Massal**: Kirim pesan dalam jumlah besar ke target pengguna NGL.
+*   **Mode Pesan**: Gunakan satu pesan tunggal atau muat pesan dari file wordlist.
+*   **Delay yang Dapat Disesuaikan**: Atur jeda waktu antar pengiriman pesan dalam detik.
+*   **Dukungan Proxy**: Gunakan proxy untuk menyembunyikan alamat IP Anda.
+*   **User-Agent Acak**: Menggunakan User-Agent yang berbeda untuk setiap permintaan.
+*   **Tampilan Progres**: Lacak progres pengiriman pesan dengan progress bar yang informatif.
 
-jika anda melihat oknum yang menjual/menyalahgunakan script ini, bisa laporkan ke telegram saya [Ryuhan Minamoto](https://t.me/ryuhanwired)
+## Instalasi
 
----
+1.  **Clone repository ini:**
+    ```bash
+    git clone https://github.com/Erzambayu/ngl
+    ```
+2.  **Masuk ke direktori proyek:**
+    ```bash
+    cd ngl
+    ```
+3.  **Install dependensi yang diperlukan:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-**Creators Contact:**  :bust_in_silhouette:
-> [Github](https://github.com/ryuhandev)  
-> [Telegram](https://t.me/ryuhanwired)   
-> [Facebook](https://www.facebook.com/ryuhann)
+## Penggunaan
 
----
+Jalankan skrip dengan perintah berikut:
 
-### bagi yang baru download termux :package:
-1. khusus bagi yang baru install termux yang belum ngerti pemasangan bisa langsung copy teks dibawah lalu paste aja, langsung otomatis install + jalanin scriptnya.
-```
-pkg upgrade -y && pkg update -y && pkg install python -y && pkg install git -y && git clone https://github.com/ryuhandev/ngl.git && cd ngl && pip install -r requirements.txt && python ngl.py
-```
----
-
-### untuk yang sudah install  :package:
-1. ini khusus yang sudah install package diatas. jadi ga perlu install ulang di cara nomor 1 tadi, langsung jalanin aja pake teks dibawah
-```
-cd ngl && python ngl.py
+```bash
+python ngl.py
 ```
 
-### bagi yang error saat runing  :package:
-1. bagi yang error pas jalanin python ngl.py silahkan install dulu dibawah ini, lalu jalankan ulang
-```
-pip install -r requirements.txt
-```
+Skrip akan meminta Anda untuk memasukkan informasi berikut:
 
-***
+*   **Username target**: Nama pengguna NGL yang akan dikirimi pesan.
+*   **Mode pesan**: Pilih antara menggunakan pesan tunggal atau wordlist.
+*   **Pesan atau path wordlist**: Masukkan pesan tunggal atau path ke file wordlist.
+*   **Jumlah percobaan**: Jumlah pesan yang akan dikirim.
+*   **Jeda waktu**: Jeda waktu antar pengiriman pesan dalam detik.
+*   **Gunakan proxy?**: Pilih apakah akan menggunakan proxy atau tidak.
+*   **Path file proxy**: Jika menggunakan proxy, masukkan path ke file proxy.
+
+Setelah semua informasi dimasukkan, skrip akan menampilkan konfirmasi sebelum memulai proses pengiriman.
+
+## Disclaimer
+
+Skrip ini dibuat untuk tujuan edukasi dan pengujian. Pengguna bertanggung jawab penuh atas segala tindakan yang dilakukan menggunakan skrip ini. Pengembang tidak bertanggung jawab atas penyalahgunaan apa pun.
